@@ -1,6 +1,6 @@
-Welcome to this GitHub page for EC2020 Elements of Econometrics! This is where I'll post the notes that I make in the life sessions and any extra material that might help you get your head around the course content
+Welcome to this GitHub page for EC2020 Elements of Econometrics! This is where I'll post the notes that I make in the live sessions and any extra material that might help you get your head around the course content
 
-## Life Session Material
+## Live Session Material
 * **Session 1:** (Available soon!)
 
 ## Bonus Resources
