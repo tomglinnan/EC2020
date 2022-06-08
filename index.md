@@ -1,8 +1,7 @@
 Welcome to this GitHub page for EC2020 Elements of Econometrics! This is where I'll post the notes that I make in the live sessions and any extra material that might help you get your head around the course content
 
 ## Live Session Material
-* **Session 1, Class 1:** [here](EC2020 Live Session 1.pdf) - main takeaways: correlation is not causation (and where the difference comes from), the (un-)usefulness of R squared, the fact that OLS gives us what we'd hope it would in simple cases, why we need to make assumptions for OLS to work well (be unbiased / efficient). Lots of content but it will all make sense eventually even if not now
-* **Session 1, Class 3:** [here](Class 3 session 1.pdf)
+* **Live Session 1** main takeaways: correlation is not causation (and where the difference comes from), the (un-)usefulness of R squared, the fact that OLS gives us what we'd hope it would in simple cases, why we need to make assumptions for OLS to work well (be unbiased / efficient). Lots of content but it will all make sense eventually even if not now. **Class 1 notes:** [here](EC2020 Live Session 1.pdf). **Class 3 notes:** [here](Class 3 session 1.pdf)
 * **Session 2:** [here](Ec2020 Session 2.pdf) - main takeaways: why we control for confounders and how multivariate regression lets us do this, intuition for why beta hat has a variance and what factors make it big or small, and how to interpret OLS coefficients. I was having internet troubles so the Zoom recording shuts down quickly at the end - apologies for this. 
 * **Session 3:** [here](Session 3.pdf) - main takeaways: what testing is, and what we do about it!
 * **Session 4:** [here](Session 4.pdf) - main takeaways: functional forms and omitted variable bas (OVB), with proofs
