@@ -7,6 +7,7 @@ Welcome to this GitHub page for EC2020 Elements of Econometrics! This is where I
 * **Live Session 4:**  main takeaways: functional forms and omitted variable bas (OVB), with proofs. **Class 1 notes:** [here](Session 4.pdf)
 * **Live Session 5:**  main takeaways: the MLR / Gauss Markov assumptions, proof of consistency of OLS, heteroscedasticity and testing for it (White and BP) and WLS. **Class 1 notes:** [here](Session 5.pdf)
 * **Live Session 6:**  main takeaways: an introduction to IV, both in terms of diagrams, formal conditions, and thinking about when the right conditions will occur. **Class 1 notes:** [here](Class 1 - session 6.pdf)
+* **Live Session 7:**  on simultaneous equations and measurement error. **Class 1 notes:** [here](Session 7 class 1.pdf)
 
 
 ## Bonus Resources
