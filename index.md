@@ -9,6 +9,7 @@ Welcome to this GitHub page for EC2020 Elements of Econometrics! This is where I
 * **Live Session 6:**  main takeaways: an introduction to IV, both in terms of diagrams, formal conditions, and thinking about when the right conditions will occur. **Class 1 notes:** [here](Class 1 - session 6.pdf)
 * **Live Session 7:**  on simultaneous equations and measurement error. **Class 1 notes:** [here](Session 7 class 1.pdf)
 * **Live Session 8:** on MLE and probit / logit. Make sure you feel ok with MLE in the abstract, then realise that probit and logit models are specific examples of applications of MLE that we use in economics. Have a look at the story motivating probit / logit - I think it's helpful to understand where everything comes from. **Class 1 notes:** [here](ec2020_s_8_class_1.pdf)
+* **Live Session 9:** on time series, and why everything comes down to the difference between E(e|X)=0 and E(Xe)=0!  **Class 1 notes:** [here](class_1_session_9.pdf)
 
 
 ## Bonus Resources
