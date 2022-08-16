@@ -5,12 +5,12 @@ Welcome to this GitHub page for EC2020 Elements of Econometrics! This is where I
 * **Live Session 2:**  main takeaways: why we control for confounders and how multivariate regression lets us do this, intuition for why beta hat has a variance and what factors make it big or small, and how to interpret OLS coefficients. **Class 1 notes:** [here](Ec2020 Session 2.pdf). **Class 3 notes:** [here](Session 2 class 3.pdf)
 * **Live Session 3:**  main takeaways: what testing is, and what we do about it. Make sure you feel confident with the philosophy of testing as well as the specifics of the T and F tests **Class 1 notes:** [here](Session 3.pdf). **Class 3 notes:** [here](ec2020_s3_class_3.pdf)
 * **Live Session 4:**  main takeaways: functional forms and omitted variable bas (OVB), with proofs. **Class 1 notes:** [here](Session 4.pdf). **Class 3 notes:** None, as tablet wasn't working (apologies!)
-* **Live Session 5:**  main takeaways: the MLR / Gauss Markov assumptions, proof of consistency of OLS, heteroscedasticity and testing for it (White and BP) and WLS. **Class 1 notes:** [here](Session 5.pdf). 
+* **Live Session 5:**  main takeaways: the MLR / Gauss Markov assumptions, proof of consistency of OLS, heteroscedasticity and testing for it (White and BP) and WLS. **Class 1 notes:** [here](Session 5.pdf). **Class 3 notes:** Done on the whiteboard, so no notes available
 * **Live Session 6:**  main takeaways: an introduction to IV, both in terms of diagrams, formal conditions, and thinking about when the right conditions will occur. **Class 1 notes:** [here](Class 1 - session 6.pdf)
 * **Live Session 7:**  on simultaneous equations and measurement error. **Class 1 notes:** [here](Session 7 class 1.pdf)
 * **Live Session 8:** on MLE and probit / logit. Make sure you feel ok with MLE in the abstract, then realise that probit and logit models are specific examples of applications of MLE that we use in economics. Have a look at the story motivating probit / logit - I think it's helpful to understand where everything comes from. **Class 1 notes:** [here](ec2020_s_8_class_1.pdf)
-* **Live Session 9:** on time series, and why everything comes down to the difference between E(e|X)=0 and E(Xe)=0!  **Class 1 notes:** [here](class_1_session_9.pdf)
-
+* **Live Session 9:** on stationary time series, and why everything comes down to the difference between E(e\|X)=0 and E(Xe)=0!  **Class 1 notes:** [here](class_1_session_9.pdf)
+* **Live Session 10:** on non-stationary time series and all of the key differences. **Class 1 notes:** done on the whiteboard, so no notes available
 
 ## Bonus Resources
 These were written by me for previous (and slightly different) courses I've taught at LSE, so they don't match up exactly with the content of EC2020. However you might find them useful to give you another perspective on some of the things we're doing here
